@@ -1,3 +1,5 @@
+/NumbersDates/Challenge/obj
+/NumbersDates/Challenge/bin
 /NumbersDates/DateTimeClass/bin
 /NumbersDates/DateTimeClass/obj
 /NumbersDates/FormatDates/bin
@@ -22,3 +24,4 @@
 /Strings/Manipulation/obj
 /Strings/Searching/bin
 /Strings/Searching/obj
+.vscode
